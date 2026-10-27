@@ -1,0 +1,1 @@
+Dự án xây dựng hệ thống hỗ trợ công tác bảo hộ giống cây trồng, bao gồm pháp luật và chính sách; quản lý hồ sơ đăng ký và bằng bảo hộ; khảo nghiệm DUS; quản lý hiệu lực và thực thi quyền; khai thác thương mại quyền; dữ liệu, thống kê, đào tạo và hợp tác quốc tế.
